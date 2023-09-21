@@ -1,0 +1,58 @@
+/*home page */
+
+.homebig{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.himage{
+  margin: 20px;
+}
+
+.description{
+  text-align: center;
+  
+  line-height: 30px;
+  padding: 50px;
+  margin-top: 90px;
+}
+
+/*footer css */
+
+footer {
+  background-color: #333; /* Background color */
+  color: #fff; /* Text color */
+  padding: 20px 0; /* Padding for top and bottom */
+  text-align: center; /* Center-align text */
+}
+
+/* Add styles for links inside the footer */
+footer a {
+  color: #fff; /* Link text color */
+  text-decoration: none; /* Remove underline */
+  margin: 0 10px; /* Space between links */
+}
+
+/* Style the footer links when hovered */
+footer a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+
+/* all customers css */
+
+.card{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+/* customers */
+
+.cbig{
+  padding: 30px;
+}
+
+.amountin{
+  margin-bottom: 10px;
+}
